@@ -6,7 +6,7 @@
 | 5025231082 | Muhammad Hanif Fakriansyah |
 | 5025231011 | Fazle Robby Pratama |
 
-# KKA Final Project
+# Graph Theory Final Project
 
 </div>
 
